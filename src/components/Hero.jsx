@@ -11,7 +11,7 @@ export default function Hero({ config }) {
           </div>
           
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-4 leading-tight">
-            Top Rated San Jose Dentist
+            Best Dentist in Austin
           </h1>
           
           <p className="text-lg md:text-xl opacity-95 mb-6 max-w-xl">
